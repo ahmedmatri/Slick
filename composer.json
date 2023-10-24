@@ -1,12 +1,3 @@
 {
-    "name": "ahmedmatri/Slick",
-    "description": "Description of your package",
-    "version": "1.8.1",
-    "authors": [
-        {
-            "name": "Ahmed",
-            "email": "ahmed@ahmed.com"
-        }
-    ]
+ "name": "kenwheeler/slick"
 }
-
