@@ -4,13 +4,9 @@
     "version": "1.8.1",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@email.com"
+            "name": "Ahmed",
+            "email": "ahmed@ahmed.com"
         }
     ],
-    "require": {
-        "php": ">=7.0"
-        // Add other dependencies if necessary
-    }
 }
 
